@@ -2,7 +2,7 @@
 
 ## 📸 Preview
 
-[Cafe Menu](https://gyazo.com/3c0a87f7aa50ca617b94fa07850133d9))
+[Cafe Menu](https://gyazo.com/3c0a87f7aa50ca617b94fa07850133d9)
 
 *Replace the above URL with a screenshot of your project once it's live.*
 
