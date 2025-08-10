@@ -3,7 +3,7 @@
 ## Introduction
 
 This project is part of the **Responsive Web Design Certification** on [freeCodeCamp.org](https://freecodecamp.org).  
-I’m currently working through **Steps 1 to 81** of the **Basic CSS by Building a Cafe Menu** project, which focuses on learning core CSS concepts by creating a stylish cafe menu page.
+I’m currently working through **Steps 1 to 91** of the **Basic CSS by Building a Cafe Menu** project, which focuses on learning core CSS concepts by creating a stylish cafe menu page.
 
 The project is designed to help beginners understand how to style HTML elements using CSS, and build a responsive, visually appealing menu.
 
